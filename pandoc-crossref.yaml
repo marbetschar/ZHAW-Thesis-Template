@@ -1,0 +1,9 @@
+# pandoc-crossref
+# https://lierdakil.github.io/pandoc-crossref
+figureTitle: "Abbildung"
+tableTitle: "Tabelle"
+figPrefix: "Abbildung"
+eqnPrefix: "Gleichung"
+tblPrefix: "Tabelle"
+lofTitle: "Abbildungsverzeichnis"
+lotTitle: "Tabellenverzeichnis"

@@ -2,7 +2,7 @@
 
 ## Unterkapitel {#sec:referenzZuUnterkapitel}
 
-Hier gibts bisschen Text. Und wir haben auch ein @fig:referenzZuBild:
+Hier gibts bisschen Text. Und wir haben auch ein @fig:referenzZuBild - oder alternativ zu @tbl:meineTabelle
 
 ![Das ist die Bildunterschrift](assets/bild.png "Das ist die Bildunterschrift"){#fig:referenzZuBild}
 
